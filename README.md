@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 💻 Working with React.js, Next.js, and Tailwind CSS.  
 🌱 Interested in data, blockchain, and AI technologies.  
+🚀 Currently learning Vue, with an eye on Angular
 
 ### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
