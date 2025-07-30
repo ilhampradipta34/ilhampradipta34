@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhampradipta34&show_icons=true&theme=gruvbox)
 -->
 💻 Working with React.js, Next.js, and Tailwind CSS.  
 🌱 Interested in data, blockchain, and AI technologies.  
@@ -24,5 +26,3 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhampradipta34&show_icons=true&theme=gruvbox)
